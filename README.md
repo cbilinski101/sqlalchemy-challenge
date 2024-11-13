@@ -6,7 +6,7 @@ This project involves using Python's SQLAlchemy library to analyze climate data 
 
 ## Project Structure
 * README.md - Project overview
-* climate_app.py - Flask API for climate data
+* app.py - Flask API for climate data
 * analysis.ipynb - Jupyter Notebook for data analysis
 * Resources/
     * hawaii.sqlite - SQLite database with climate data
