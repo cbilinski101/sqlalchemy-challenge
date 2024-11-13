@@ -10,7 +10,6 @@ This project involves using Python's SQLAlchemy library to analyze climate data 
 * analysis.ipynb - Jupyter Notebook for data analysis
 * Resources/
     * hawaii.sqlite - SQLite database with climate data
-* images/ - Folder to store generated charts and figures
 
 ## Dataset
 
